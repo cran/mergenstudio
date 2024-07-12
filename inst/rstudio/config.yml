@@ -1,0 +1,10 @@
+model: "gpt-3.5-turbo"
+service: "openai"
+api_url: ""
+api_key: ""
+custom_context: actAs
+selfcorrect: false
+fileheader: false
+autoexecution: false
+nr_tokens: 4000
+language: "en"
